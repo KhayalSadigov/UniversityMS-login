@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Martz90-Circle-Addon2-Computer.512.png</file>
+    </qresource>
+</RCC>

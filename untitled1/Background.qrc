@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>hercules-hall-surrounded-by-greenery-sunlight-daytime-munich-germany.jpg</file>
+    </qresource>
+</RCC>
